@@ -19,14 +19,5 @@
     "testFiles": [
         "neotest.ts"
     ],
-    "yotta": {
-        "config": {
-            "microbit-dal": {
-                "bluetooth": {
-                    "enabled": 1
-                }
-            }
-        }
-    },
     "public": true
 }
