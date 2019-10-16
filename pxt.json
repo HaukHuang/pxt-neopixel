@@ -1,5 +1,5 @@
 {
-    "name": "neopixel",
+    "name": "thinklandLED",
     "version": "0.6.12",
     "description": "AdaFruit NeoPixel driver",
     "license": "MIT",
