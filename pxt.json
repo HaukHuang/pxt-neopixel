@@ -1,6 +1,6 @@
 {
     "name": "thinklandLED",
-    "version": "0.6.12",
+    "version": "1.1",
     "description": "AdaFruit thinklandLED driver",
     "license": "MIT",
     "dependencies": {
